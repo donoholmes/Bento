@@ -104,7 +104,7 @@ const CONFIG = {
     secondList: [
       {
         name: 'gsr102home',
-        link: 'https://docs.google.com/document/d/1Xp79GroQeAVjYxIZsm34EeU6nvlLQQmnGZa-hAUecV0/edit',
+        link: 'https://docs.google.com/document/d/1hBo7HiQXCInZcE2EC5r8o2XHknGrOG6nRHCezTNwfXQ/edit',
       },
       {
         name: 'anime',
