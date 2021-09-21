@@ -49,9 +49,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Todoist',
+      name: 'MyMathLab',
       icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      link: 'https://www.mathxl.com/Student/DoAssignments.aspx?error_url=https%3a%2f%2fgallaudet.blackboard.com%2fultra%2fcourses%2f_171792_1%2foutline&isgradable=false&highlanderid=58050&person_batch_uid=0312361&legacy_context_id=520ccda9f92c554b1ae579a0e197a7caa9aa7e7066e1898661c6d73229e68599&source_tool_consumer_guid=9ae04c6a-6f0e-4496-9dee-98c5c2ce061a&tool_consumer_vendor=Blackboard&context_batch_uid=Fall2021-GSR104-04&tool_consumer_plugin_version=3900.21.0-rel.28+dd6c7ec&tool_consumer_application=Learn&placement=tools&isinstructoronly=false&user_uuid=b1886583e3f245a8b91491c1ce692c8e&context_uuid=1c716a25fce548d2a69457033c2ecd31&view=all&tool_consumer_time_zone=-0400&source_tool_consumer_id=3eded2e0911b794fa862210143a51601&person_username=donovan.holmes&legacy_user_id=88f12079d24acefa1bc3a513929fd629&tool_consumer_instance_installation_type=Production',
     },
     {
       id: '4',
