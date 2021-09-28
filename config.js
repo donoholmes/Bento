@@ -55,9 +55,9 @@ const CONFIG = {
     },
     {
       id: '4',
-      name: 'Calendar',
+      name: 'bison',
       icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      link: 'https://www.gallaudet.edu/gallaudet-technology-services/services/bison',
     },
     {
       id: '5',
@@ -104,7 +104,7 @@ const CONFIG = {
     secondList: [
       {
         name: 'gsr102home',
-        link: 'https://docs.google.com/document/d/1hBo7HiQXCInZcE2EC5r8o2XHknGrOG6nRHCezTNwfXQ/edit',
+        link: 'https://docs.google.com/document/d/1LbJGkPydkKkTm-63DjITTRl98TAObtuRT1cBQ1HWqY8/edit',
       },
       {
         name: 'anime',
