@@ -85,19 +85,19 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'vee 101',
-        link: 'https://gallaudet.blackboard.com/ultra/courses/_172351_1/outline',
+        name: 'MAT 130',
+        link: 'https://gallaudet.blackboard.com/ultra/courses/_173670_1/outline',
       },
       {
-        name: 'gsr 102 eng',
-        link: 'https://gallaudet.blackboard.com/ultra/courses/_171771_1/outline',
+        name: 'VEE 102',
+        link: 'https://gallaudet.blackboard.com/ultra/courses/_173887_1/outline',
       },
       {
-        name: 'gsr 103 asl',
-        link: 'https://gallaudet.blackboard.com/ultra/courses/_171773_1/outline',
+        name: 'ITS 105',
+        link: 'https://gallaudet.blackboard.com/ultra/courses/_173621_1/outline',
       },
       {
-        name: 'gsr 104 math',
+        name: 'GSR 130',
         link: 'https://gallaudet.blackboard.com/ultra/courses/_171792_1/outline',
       },
     ],
