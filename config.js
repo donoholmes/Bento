@@ -97,7 +97,7 @@ const CONFIG = {
         link: 'https://gallaudet.blackboard.com/ultra/courses/_173621_1/outline',
       },
       {
-        name: 'GSR 130',
+        name: 'GSR 103',
         link: 'https://gallaudet.blackboard.com/ultra/courses/_171792_1/outline',
       },
     ],
