@@ -107,12 +107,12 @@ const CONFIG = {
         link: 'https://twitter.com/home',
       },
       {
-        name: 'anime',
-        link: 'https://animixplay.to/',
+        name: 'goodreads',
+        link: 'https://www.goodreads.com/',
       },
       {
-        name: 'mal',
-        link: 'https://myanimelist.net/',
+        name: 'wordle',
+        link: 'https://www.nytimes.com/games/wordle/index.html',
       },
       {
         name: 'jomezpro',
