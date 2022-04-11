@@ -39,9 +39,9 @@ function getWeather(latitude, longitude) {
       return data;
     })
     .then(function (data) {
-      let celsius = Math.floor(data.main.temp - KELVIN);
+      let fahrenheit = Math.floor(data.main.temp - KELVIN);
       weather.temperature.value =
-        tempUnit == 'C' ? celsius : (celsius * 9) / 5 + 32;
+        tempUnit == 'F' ? fahrenheit : (fahrenheit / 9) * 5 - 32;
       weather.description = data.weather[0].description;
       weather.iconId = data.weather[0].icon;
     })
