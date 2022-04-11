@@ -11,7 +11,7 @@ const descElement = document.querySelector(
 // App data
 const weather = {};
 weather.temperature = {
-  unit: 'celsius',
+  unit: 'fahrenheit',
 };
 
 var tempUnit = CONFIG.weatherUnit;
