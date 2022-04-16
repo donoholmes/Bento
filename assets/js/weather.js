@@ -11,7 +11,7 @@ const descElement = document.querySelector(
 // App data
 const weather = {};
 weather.temperature = {
-  unit: 'fahrenheit',
+  unit: 'celsius',
 };
 
 var tempUnit = CONFIG.weatherUnit;
@@ -41,7 +41,7 @@ function getWeather(latitude, longitude) {
     .then(function (data) {
       let fahrenheit = Math.floor(data.main.temp - KELVIN);
       weather.temperature.value =
-        tempUnit == 'F' ? fahrenheit : (fahrenheit / 9) * 5 - 32;
+        tempUnit == 'C' ? celsius : (celsius / 9) * 5 - 32;
       weather.description = data.weather[0].description;
       weather.iconId = data.weather[0].icon;
     })
